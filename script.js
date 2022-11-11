@@ -29,26 +29,26 @@ const $ = document.querySelector.bind(document);
           {
             name: 'Someone You Loved',
             // singer: 'ETS 2022',
-            path: "https://ve83.aadika.xyz/download/zABLecsR5UE/mp3/128/1668141311/2d72a08a1f8845a57f29782ae92bb47e21b74f6c65bb456ac78dcf129dbb3e81/1?f=X2Download.app",
+            path: "X2Download.app - Lewis Capaldi - Someone You Loved (128 kbps).mp3",
             image: "https://cdn.memevui.com/2022-04/20/con-meo-voi-nu-cuoi-tren-moi_medium.jpg",
           },
           {
             name: 'I\'ll Be There',
             // singer: 'ETS 2022',
-            path: "https://ve48.aadika.xyz/download/AROzyU7ovgs/mp3/128/1668143518/e746f6738044e2123d0bab589cdeb842b8c9ff70df05b8ec0451374102f674a6/1?f=X2Download.app",
+            path: "X2Download.app - I'll Be There - Gabriela Bee (Lyrics) (128 kbps).mp3",
 
             image: "https://tiengdong.com/wp-content/uploads/www_tiengdong_com-meme-meo-cam-phong-lon.jpg",
           },
           {
             name: 'Like My Father',
             // singer: 'ETS 2022',
-            path: "https://ve59.aadika.xyz/download/3s5hTD65CNM/mp3/128/1668143902/8cf8fb803dda417250e2e7f0050e9b65bbd7d6dd40ba7970a66af954200d8019/1?f=X2Download.app",
+            path: "X2Download.app - Jax - Like My Father (Lyrics_Vietsub) (128 kbps).mp3",
             image: "https://kynguyenlamdep.com/wp-content/uploads/2022/08/meme-meo-nham-hiem.jpg",
           },
           {
             name: 'Cash Cash',
             // singer: 'ETS 2022',
-            path: "https://ve83.aadika.xyz/download/j9KnHA9BnuQ/mp3/128/1668143629/bf344a2bc057914e055ca4abd8fdaeddab48bcda3f36b28834d4f4881478b5a7/1?f=X2Download.app",
+            path: "X2Download.app - [Vietsub+Lyric] Cash Cash - Hero feat. Christina Perri (128 kbps).mp3",
             image: "https://docthuvi.com/static/img/meme-meo-khoc-la-gi-co-nguon-goc-tu-dau-va-cac-bien-the-hai-huoc-tu-cong-dong-mang-881c72-3.jpg",
           },
           // {
